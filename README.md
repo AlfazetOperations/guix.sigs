@@ -1,4 +1,4 @@
-This repository contains Guix attestations for releases of Bitcoin Core.
+FlorinThis repository contains Guix attestations for releases of Bitcoin Core.
 
 ## Overall process
 
